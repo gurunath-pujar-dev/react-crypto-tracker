@@ -4,7 +4,7 @@ A web application that provide realtime data for crypto coins.
 
 
 
-https://github.com/user-attachments/assets/f75e4147-909c-4811-b954-ae8ac3b6cd2f
+https://github.com/user-attachments/assets/690bd251-6f3d-4cdf-85fa-e5c5ee035e33
 
 
 ---
